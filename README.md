@@ -1,4 +1,4 @@
-# android-resources
+# android-internals
 Curated list of talks & resources on android internals
 
 ### Touch System
