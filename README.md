@@ -12,4 +12,4 @@ Curated list of talks & resources on android internals
 
 ## Views
 
-* [CustomViews Measure, Layout & Draw](https://www.youtube.com/watch?v=4NNmMO8Aykw)
+* [Droidcon NYC 2016 - Measure, Layout, Draw, Repeat: Custom Views and ViewGroups](https://www.youtube.com/watch?v=4NNmMO8Aykw)
