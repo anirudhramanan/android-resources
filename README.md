@@ -1,5 +1,5 @@
 # android-resources
-Useful talks &amp; blogs on android internals
+Curated list of talks & resources on android internals
 
 
 ## Touch System
