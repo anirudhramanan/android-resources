@@ -13,6 +13,7 @@ Curated list of talks & resources on android internals
 
 * [Droidcon NYC 2016 - Measure, Layout, Draw, Repeat: Custom Views and ViewGroups](https://www.youtube.com/watch?v=4NNmMO8Aykw)
 * [Droidcon NYC 2016 - How LayoutInflater works](https://www.youtube.com/watch?v=Y06wmVIFlsw)
+* [Mastering ConstraintLayout in Android](https://www.youtube.com/watch?v=rzmB3UxxhaA)
 
 
 ## Contribute
