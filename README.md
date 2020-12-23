@@ -16,6 +16,10 @@ Curated list of talks & resources on android internals
 * [Mastering ConstraintLayout in Android](https://www.youtube.com/watch?v=rzmB3UxxhaA)
 * [RecyclerView ins and outs - Google I/O 2016](https://www.youtube.com/watch?v=LqBlYJTfLP4)
 
+### Architecture Components
+
+* [Architecture Components - Yigit Boyar - Londroid 2017 @Telegraph Engineering](https://www.youtube.com/watch?v=-hS3y8iFeOk)
+
 ## Contribute
 
 Please feel free to add more resources to the list
