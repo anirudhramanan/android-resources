@@ -20,6 +20,10 @@ Curated list of talks & resources on android internals
 
 * [Architecture Components - Yigit Boyar - Londroid 2017 @Telegraph Engineering](https://www.youtube.com/watch?v=-hS3y8iFeOk)
 
+### Kotlin
+
+* [Kotlin under the hood: Understand the internals (Google I/O'19)](https://www.youtube.com/watch?v=Ta5wBJsC39s)
+
 ## Contribute
 
 Please feel free to add more resources to the list
